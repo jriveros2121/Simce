@@ -1,3 +1,4 @@
+
 Dashboard SIMCE - README
 Este proyecto permite analizar y visualizar los resultados SIMCE a nivel nacional y comunal mediante una aplicación interactiva en Streamlit.
 
@@ -23,3 +24,8 @@ streamlit
 pandas
 
 matplotlib
+
+## Integrantes Esteban Gonzalez, Joaquin Riveros y Rodny Araujo
+
+
+### https://uahcsimce.streamlit.app/
